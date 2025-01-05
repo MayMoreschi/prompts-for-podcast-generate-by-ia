@@ -1,8 +1,9 @@
 <p align="center">
 <img 
     src="./assets/capa_podcast.png"
-    src="./assets/capa_episodio_piloto.png"
     width="400"  
+    src="./assets/capa_episodio_piloto.png"
+    width="400" 
 />
 </p>
 
