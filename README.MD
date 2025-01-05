@@ -1,3 +1,11 @@
+<p align="center">
+<img 
+    src="./assets/cover.png"
+    width="400"  
+/>
+</p>
+
+
 # Projeto Podcast Gerado por I.A.s
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso Bootcamp Caixa na plataforma da [DIO](https://dio.me)
 
