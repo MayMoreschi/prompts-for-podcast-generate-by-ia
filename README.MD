@@ -28,15 +28,14 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+|   Ação   | prompt                                                                                                                                                                                                                                                                                                                                                                                      |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título podecast | Você é um roteirista de podcast, e vamos criar um podcast de literatura, focado em literatura clássica e contemporânea e eu gostaria de uma ajuda sua para criar 5 sugestões 
-de nomes criativos para um podcast de literatura feito por leitores nerds, e que tenha algum trocadilho literário no nome. O podcast vai falar sobre dicas e novidades sobre o mundo dos livros fazendo comparações saudáveis entre as temáricas que se encontrava naquela literatura e nas atuais 
-{REGRAS}
-- O nome deve ser enxuto e ter um subtítulo que faça referência ao nome
-- O nome tenha algum trocadilho literário com nomes de livros clássicos muldialmente conhecidos
-- O nome deve conter alguma palavra forte que remeta a livros e/ou literatura
-{REGRAS NEGATIVAS}
+de nomes criativos para um podcast de literatura feito por leitores nerds, e que tenha algum trocadilho literário no nome. O podcast vai falar sobre dicas e novidades sobre o mundo dos livros fazendo comparações saudáveis entre as temáricas que se encontrava naquela literatura e nas atuais.
+| REGRAS | - O nome deve ser enxuto e ter um subtítulo que faça referência ao nome
+           - O nome tenha algum trocadilho literário com nomes de livros clássicos muldialmente conhecidos
+           - O nome deve conter alguma palavra forte que remeta a livros e/ou literatura                                                                                                        |
+| REGRAS NEGATIVAS | 
 - O título não deve conter palavras em inglês  
 - Não utilize a palavra "literatura sem frescura" no nome nem qualquer variação dela |
 | roteiro | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast literário, focado em livros clássicos e contemporâneos cujo o nome é "A Metamorfose dos Livros: Como a Literatura Transforma o Ontem no Hoje" e tem foco em falar sobre dicas e novidades sobre o mundo dos livros fazendo comparações saudáveis entre as temáricas que se encontrava naquela literatura e nas atuais,  com o público alvo de leitores iniciantes que têm receio de ler livros clássicos.
