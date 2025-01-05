@@ -5,7 +5,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| título podcast | Você é um roteirista de podcast, e vamos criar um podcast de literatura, focado em literatura clássica e contemporânea e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de literatura feito por leitores nerds, e que tenha algum trocadilho literário no nome. O podcast vai falar sobre dicas e novidades sobre o mundo dos livros fazendo comparações saudáveis entre as temáricas que se encontrava naquela literatura e nas atuais 
+| título podcast | Você é um roteirista de podcast, e vamos criar um podcast de literatura, focado em literatura clássica e contemporânea e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de literatura feito por leitores nerds, e que tenha algum trocadilho literário no nome. O podcast vai falar sobre dicas e novidades sobre o mundo dos livros fazendo comparações saudáveis entre as temáticas que se encontrava naquela literatura e nas atuais. 
 
 {REGRAS}
 
